@@ -1,9 +1,9 @@
 # Daily-task
 
 Updated Routine
-| Time                    | Task                                                                 |
+| Time                    | Task                                                                 |        
 | ----------------------- | -------------------------------------------------------------------- |
-| **7:00 AM – 11:00 AM**  | 🟢 Block 1: C++ → DSA → LeetCode / Problem Solving                   |
+| **7:00 AM – 11:00 AM**  | 🟢 Block 1: C++ → DSA → LeetCode / Problem Solving                   | 
 | **11:00 AM – 2:00 PM**  | 🟢 Block 2: Backend Engineering (Architecture + Projects)            |
 | **2:00 PM – 3:00 PM**   | 🍛 Lunch + Shower + Rest                                             |
 | **3:00 PM – 5:00 PM**   | 🟢 Block 2 (Continue): Backend Engineering (Architecture + Projects) |
@@ -14,6 +14,80 @@ Updated Routine
 | **10:30 PM – 11:30 PM** | 📖 Review + Notes + GitHub Commit + Tomorrow's Planning              |
 | **11:30 PM**            | 😴 Sleep                                                             |
 
+
+## Common Bugs
+
+- Most common mistakes
+- Why they happen
+- How to debug them
+- Production debugging techniques
+- Logging strategy
+- Monitoring strategy
+
+## Interview Preparation
+
+- [ ] Can explain the concept.
+- [ ] Can implement from scratch.
+- [ ] Can explain trade-offs.
+- [ ] Can answer follow-up questions.
+- [ ] Can discuss production use cases.
+
+# Mastery Checklist
+
+## DSA
+
+- [ ] Can solve unseen Easy problems.
+- [ ] Can solve most Medium problems.
+- [ ] Can explain time complexity.
+- [ ] Can explain space complexity.
+- [ ] Ready for coding interviews.
+
+--------------------------------
+
+## Backend
+
+- [ ] Can build production REST API.
+- [ ] Can design scalable architecture.
+- [ ] Can implement authentication.
+- [ ] Can use Redis effectively.
+- [ ] Can use BullMQ.
+- [ ] Can optimize database queries.
+- [ ] Can debug production issues.
+- [ ] Can explain Node.js internals.
+
+--------------------------------
+
+## DevOps
+
+- [ ] Comfortable with Linux.
+- [ ] Understand Networking.
+- [ ] Can Dockerize applications.
+- [ ] Can deploy to AWS.
+- [ ] Can use GitHub Actions.
+- [ ] Can deploy Kubernetes.
+- [ ] Can monitor applications.
+
+--------------------------------
+
+## System Design
+
+- [ ] Can design URL Shortener.
+- [ ] Can design Notification Service.
+- [ ] Can design Chat System.
+- [ ] Can explain caching.
+- [ ] Can explain load balancing.
+- [ ] Can explain scalability.
+
+--------------------------------
+
+## Career
+
+- [ ] Resume ATS Optimized.
+- [ ] LinkedIn Optimized.
+- [ ] GitHub Portfolio Ready.
+- [ ] Confident in HR Interview.
+- [ ] Confident in Technical Interview.
+- [ ] Ready for Remote Jobs.
 
 
 
@@ -403,3 +477,44 @@ Offer Negotiation
 * **25%** DevOps + System Design
 * **5%** English
 * **10%** Career & Job Search
+
+## After 5 month Engineering Portfolio Checklist
+
+Projects
+
+- [ ] Production Backend API
+- [ ] Notification Service
+- [ ] Realtime Chat Platform
+- [ ] Enterprise Microservice System
+
+Documentation
+
+- [ ] Professional README
+- [ ] Architecture Diagram
+- [ ] ER Diagram
+- [ ] API Documentation
+- [ ] Deployment Guide
+
+DevOps
+
+- [ ] Docker
+- [ ] Docker Compose
+- [ ] GitHub Actions
+- [ ] AWS Deployment
+- [ ] Kubernetes Deployment
+
+Quality
+
+- [ ] Unit Tests
+- [ ] Integration Tests
+- [ ] Logging
+- [ ] Monitoring
+- [ ] Load Testing
+
+Career
+
+- [ ] Resume
+- [ ] LinkedIn
+- [ ] Portfolio Website
+
+
