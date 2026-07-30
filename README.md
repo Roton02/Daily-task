@@ -518,3 +518,78 @@ Career
 - [ ] Portfolio Website
 
 
+Here are 32 frequently discussed production-focused Node.js interview questions worth practicing.
+
+⚡ Performance & Scalability
+
+1. An API latency jumps from 100ms to 2 seconds in production. How would you diagnose it?
+
+2. Your service suddenly receives 10K+ requests/second. How would you scale it?
+
+3. During peak traffic, the Node.js application stops responding. What would you investigate first?
+
+
+4. How do you detect Event Loop blocking in a production environment?
+
+5. CPU-intensive operations are slowing every request. What architectural changes would you make?
+
+
+🗄 Database Optimization
+
+6. Your database connection pool is exhausted. How do you identify the root cause?
+
+7. A MongoDB query becomes significantly slower overnight. What would you check?
+
+8. Database CPU utilization suddenly reaches 90%. How would you troubleshoot it?
+
+9. How do you detect and eliminate N+1 query issues?
+
+10. Which database optimization techniques have improved performance in your projects?
+
+⚡ Caching
+
+11. Users receive outdated data after updates while Redis is enabled. What might be causing it?
+
+12. How would you design an effective cache invalidation strategy?
+
+13. When is caching not the right solution?
+
+🔗 Microservices
+
+14. Service A depends on Service B, but Service B is unavailable. How do you prevent cascading failures?
+
+15. What is the Circuit Breaker pattern, and why is it useful?
+
+16. How do you improve resilience between microservices?
+
+17. How do you handle retries, timeouts, and fallback mechanisms?
+
+
+📩 Queues & Asynchronous Processing
+
+18. Why should emails and notifications be processed asynchronously?
+
+19. A message queue backlog keeps growing. How would you investigate it?
+
+20. What is a Dead Letter Queue (DLQ), and when would you use one?
+
+21. How do you ensure messages aren't processed multiple times?
+
+🧠 Memory & Debugging
+
+22. Memory usage keeps increasing until the application crashes. How would you debug it?
+
+23. What approaches help identify memory leaks in production?
+
+24. Which tools have you used for heap dumps, profiling, and performance analysis?
+
+🔒 Security
+
+25. What steps would you take to secure a production Node.js API?
+
+26. How would you defend login endpoints against brute-force attacks?
+
+27. How do you mitigate SQL Injection and NoSQL Injection vulnerabilities?
+
+
+
