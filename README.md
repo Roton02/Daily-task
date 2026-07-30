@@ -14,3 +14,392 @@ Updated Routine
 | **10:30 PM – 11:30 PM** | 📖 Review + Notes + GitHub Commit + Tomorrow's Planning              |
 | **11:30 PM**            | 😴 Sleep                                                             |
 
+
+
+
+# 5 Month Master Roadmap
+
+```
+Track 1
+C++ + DSA + Interview
+
+Track 2
+Backend Engineering
+
+Track 3
+DevOps + System Design
+
+Track 4
+English
+
+Track 5
+Career / Job Preparation
+```
+
+এখন Phase wise...
+
+---
+
+# MONTH 1 — Build Strong Foundation
+
+## Track 1 (C++ + DSA)
+
+* C শেষ করা
+* Modern C++
+* STL
+* Time Complexity
+* Array
+* String
+* Hashing
+* Binary Search
+* Easy Problems
+
+---
+
+## Track 2 (Backend)
+
+Node.js Fundamentals
+
+* Runtime
+* Event Loop
+* Async
+* Streams
+* Buffer
+* File System
+* Worker Thread
+* Cluster
+
+Project
+
+Large File Processing
+
+---
+
+## Track 3 (DevOps)
+
+Linux
+
+Networking
+
+* TCP/IP
+* DNS
+* HTTP
+* HTTPS
+
+Nginx
+
+Docker Basics
+
+---
+
+## Track 4 (English)
+
+* Grammar Basics
+* Reading Habit
+* Listening
+* Speaking
+* Daily Journal
+
+---
+
+## Track 5 (Career)
+
+* Resume rewrite
+* GitHub cleanup
+* LinkedIn optimization
+* Daily remote apply
+* CV tracker
+
+---
+
+# MONTH 2 — Production Backend
+
+## Track 1
+
+* Linked List
+* Stack
+* Queue
+* Tree
+* Heap
+* Sliding Window
+
+NeetCode শুরু
+
+---
+
+## Track 2
+
+Redis
+
+BullMQ
+
+Authentication
+
+Caching
+
+Rate Limiter
+
+Logging
+
+Validation
+
+Project
+
+Notification Service
+
+---
+
+## Track 3
+
+Docker
+
+Docker Compose
+
+GitHub Actions
+
+AWS Basics
+
+System Design Fundamentals
+
+---
+
+## Track 4
+
+* Interview English
+* Explain technical topics
+* Shadowing
+* Vocabulary
+
+---
+
+## Track 5
+
+* Daily Apply
+* HR interview practice
+* Portfolio improvement
+
+---
+
+# MONTH 3 — Scalable Backend
+
+## Track 1
+
+* Graph
+* DFS
+* BFS
+* Trie
+* Greedy
+
+---
+
+## Track 2
+
+Microservices
+
+WebSocket
+
+gRPC
+
+Monitoring
+
+Performance
+
+Project
+
+Realtime Chat
+
+---
+
+## Track 3
+
+AWS
+
+CI/CD
+
+Cloudflare
+
+Terraform Basics
+
+System Design
+
+---
+
+## Track 4
+
+* Mock interview
+* Technical presentation
+* System design explanation
+
+---
+
+## Track 5
+
+* Resume v2
+* GitHub polish
+* Remote applications
+* Networking
+
+---
+
+# MONTH 4 — Distributed Engineering
+
+## Track 1
+
+* Dynamic Programming
+* Backtracking
+* Revision
+
+---
+
+## Track 2
+
+Kafka
+
+Distributed Cache
+
+CQRS
+
+Saga
+
+Security
+
+Testing
+
+Project
+
+Enterprise Backend
+
+---
+
+## Track 3
+
+Kubernetes
+
+Helm
+
+Prometheus
+
+Grafana
+
+Advanced System Design
+
+---
+
+## Track 4
+
+* HR Mock
+* Behavioral Questions
+* English Fluency
+
+---
+
+## Track 5
+
+* Company-specific preparation
+* Referral search
+* Mock coding interview
+
+---
+
+# MONTH 5 — Interview Preparation
+
+## Track 1
+
+Revision
+
+Mock Interview
+
+Timed Leetcode
+
+---
+
+## Track 2
+
+Optimization
+
+Refactoring
+
+Scaling
+
+Security
+
+Load Testing
+
+---
+
+## Track 3
+
+Production Deployment
+
+Monitoring
+
+Observability
+
+AI Infrastructure Introduction
+
+---
+
+## Track 4
+
+Full English Interview
+
+Negotiation
+
+Communication
+
+---
+
+## Track 5
+
+Mass Apply
+
+Referral
+
+Interview
+
+Offer Negotiation
+
+---
+
+# Weekly Goal
+
+প্রতি সপ্তাহে যেন এই ৫টা জিনিস থাকে:
+
+✅ ৮–১২টি LeetCode Problem
+
+✅ ১টি Backend Feature
+
+✅ ১টি DevOps Lab
+
+✅ ৭ দিন English
+
+✅ ১২–১৮টা quality application
+
+---
+
+# আমি একটা জিনিস আরও যোগ করব (যেটা অনেকেই করে না)
+
+তোমার long-term goal AI Infrastructure।
+
+তাই **Month 5**-এর শেষ ২ সপ্তাহে আমি এই topics introduce করতাম (deep না, শুধু foundation):
+
+* Python basics (backend developer হিসেবে দ্রুত শেখার মতো)
+* FastAPI overview
+* GPU কীভাবে কাজ করে (high level)
+* Dockerized AI service
+* Model serving কী
+* vLLM কী
+* Ollama কী
+* Vector Database কী
+* RAG architecture কী
+
+
+---
+
+## ে
+
+* **25%** C++ + DSA
+* **35%** Backend Engineering
+* **25%** DevOps + System Design
+* **5%** English
+* **10%** Career & Job Search
