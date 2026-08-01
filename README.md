@@ -144,8 +144,18 @@ Node.js Fundamentals
 * Cluster
 
 Project
+** Large File Processing
 
-Large File Processing
+| Day       | Topics                                          | Time   |
+| --------- | ----------------------------------------------- | ------ |
+| **Day 1** | Node.js Runtime + Event Loop                    | 4–5 hr |
+| **Day 2** | Async Programming + Buffer                      | 4–5 hr |
+| **Day 3** | Streams (Theory + Practice)                     | 4–5 hr |
+| **Day 4** | File System + Large File Processing             | 4–5 hr |
+| **Day 5** | Worker Threads + Cluster                        | 4–5 hr |
+| **Day 6** | Project: Large File Processor (Part 1)          | 4–5 hr |
+| **Day 7** | Project: Large File Processor (Part 2) + Review | 4–5 hr |
+
 
 ---
 
